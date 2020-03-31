@@ -8,17 +8,17 @@
 * React Native, Expo (mobile)
 
 # back-end 
-### Para iniciar abra o repositório /backend e digite os seguintes comandos:
+### Para iniciar abra o diretório /backend e digite os seguintes comandos:
 #### npm install
 #### npm start
 
 # Front-end
-### Abrir o repositório /frontend e digitar:
+### Abrir o diretório /frontend e digitar:
 #### yarn install
 #### yarn start
 
 # Mobile 
-### Abrir o repositório /mobile e digitar
+### Abrir o diretório /mobile e digitar:
 #### yarn install
 #### yarn start
 ###### *note que para vizualizar será necessário um dispositivo Android ou IOS com o aplicativo "expo" instalado, ou um emulador vitual.
