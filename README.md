@@ -13,12 +13,12 @@
 #### npm start
 
 # Front-end
-### abrir o repositório /frontend e digitar:
+### Abrir o repositório /frontend e digitar:
 #### yarn install
 #### yarn start
 
 # Mobile 
-### abrir o repositório /mobile e digitar
+### Abrir o repositório /mobile e digitar
 #### yarn install
 #### yarn start
 ###### *note que para vizualizar será necessário um dispositivo Android ou IOS com o aplicativo "expo" instalado, ou um emulador vitual.
